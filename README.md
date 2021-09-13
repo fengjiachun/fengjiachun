@@ -8,7 +8,7 @@
 - 基于 Raft 的分布式共识算法 [SOFAJRaft](https://github.com/sofastack/sofa-jraft) 核心开发者、PMC
 
 #### 招聘
-我们使用 rust 构建高性能的时序数据库，同时我们也有 java 和 golang 岗位，如果你感兴趣，请随时联系我 jiachun.fjc@antgroup.com
+我们在使用 rust 构建高性能的时序数据库，同时也有 java 和 golang 岗位，如果你感兴趣，请随时联系我 jiachun.fjc@antgroup.com
 
 #### 公众号
 ![image](https://user-images.githubusercontent.com/3860496/133050062-a9d7bfd2-7d64-4d7d-81d5-dec90bf44ea3.png)
