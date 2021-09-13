@@ -5,7 +5,7 @@
 
 #### 开源项目
 - 分布式服务框架 [Jupiter](https://github.com/fengjiachun/Jupiter) 作者
-- 基于 Raft 的分布式共识算法 [SOFAJRaft](https://github.com/sofastack/sofa-jraft) 核心开发者、PMC
+- 基于 Raft 的分布式共识算法库 [SOFAJRaft](https://github.com/sofastack/sofa-jraft) 核心开发者、PMC
 
 #### 招聘
 我们在使用 rust 构建高性能的时序数据库，同时也有 java 和 golang 岗位，如果你感兴趣，请随时联系我 jiachun.fjc@antgroup.com
