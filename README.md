@@ -1,13 +1,16 @@
-### 冯家纯 | Jeremy
-### 经历
-- 2022.5 ~ 至今 在 GreptimeDB 负责重启服务器
-- 2018 ~ 2022.05 蚂蚁集团-智能监控-技术中台（存储）团队技术负责人，负责统一监控存储层 --- 时序数据库
-- 2018 年来到蚂蚁中间件团队
-- 2014 年加入阿里巴巴 天猫
 
-### 开源项目
-- 分布式服务框架 [Jupiter](https://github.com/fengjiachun/Jupiter) 作者
-- 基于 Raft 的分布式共识算法库 [SOFAJRaft](https://github.com/sofastack/sofa-jraft) 开源负责人、核心开发者
+### Jeremy Feng's Experience:
+- Since May 2022: Restarting servers at GreptimeDB.
+
+- 2018 - May 2022: Served as technical lead for the Storage Team in Ant Group's Intelligent Monitoring - Technical Platform. Responsible for unified monitoring storage layer, specifically time-series database.
+
+- Joined Ant Group Middleware Team in 2018.
+
+- Joined Alibaba Tmall in 2014.
+
+### Open Source Projects:
+- Author of [Jupiter](https://github.com/fengjiachun/Jupiter), a RPC framework.
+- Open source lead and core developer of [SOFAJRaft](https://github.com/sofastack/sofa-jraft), a Raft-based distributed consensus algorithm library.
 
 
 
