@@ -1,5 +1,5 @@
 
-### Jeremy Feng's Experience:
+### Jeremy's Experience:
 - Since May 2022: Restarting servers at GreptimeDB.
 
 - 2018 - May 2022: Served as technical lead for the Storage Team in Ant Group's Intelligent Monitoring - Technical Platform. Responsible for unified monitoring storage layer, specifically time-series database.
