@@ -9,8 +9,8 @@
 - Joined Alibaba Tmall in 2014.
 
 ### Open Source Projects:
-- Author of [Jupiter](https://github.com/fengjiachun/Jupiter), a RPC framework.
-- Open source lead and core developer of [SOFAJRaft](https://github.com/sofastack/sofa-jraft), a Raft-based distributed consensus algorithm library.
+- Author of [Jupiter](https://github.com/fengjiachun/Jupiter), an RPC framework.
+- Open source core developer of [SOFAJRaft](https://github.com/sofastack/sofa-jraft), a library that implements the Raft-based distributed consensus algorithm.
 
 
 
