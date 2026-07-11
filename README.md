@@ -21,11 +21,9 @@
 
 ### 🧭 Experience
 
-| When | What |
-|------|------|
-| **May 2022 – now** | Co-Founder @ Greptime — building GreptimeDB, an open-source, cloud-native observability database. |
-| **2018 – 2022** | Ant Group — Middleware Team → Tech Lead, Storage Team; unified monitoring storage layer (time-series DB). |
-| **2014 – 2018** | Alibaba, Tmall. |
+- **May 2022 – now** · Co-Founder @ **Greptime** — building GreptimeDB, an open-source, cloud-native observability database.
+- **2018 – 2022** · **Ant Group** — Middleware Team → Tech Lead, Storage Team; unified monitoring storage layer (time-series DB).
+- **2014 – 2018** · **Alibaba**, Tmall.
 
 ### 🌱 Open Source
 
@@ -41,11 +39,4 @@
   <img src="https://img.shields.io/badge/Distributed%20Systems-4B32C3?style=flat" alt="Distributed Systems"/>
   <img src="https://img.shields.io/badge/Observability-3E7BFA?style=flat" alt="Observability"/>
   <img src="https://img.shields.io/badge/Raft-FF6B6B?style=flat" alt="Raft"/>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fengjiachun&show_icons=true&theme=default&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengjiachun&layout=compact&theme=default&hide_border=true&langs_count=6" alt="top langs"/>
 </p>
